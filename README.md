@@ -4,4 +4,5 @@ How to run:Inside src,"python main.py"
 ![3](https://github.com/divyaprabha1805/GOAT-HACKATHON-22PW13/blob/main/screenshot/Screenshot%202025-03-30%20224119.png)
 ![4](https://github.com/divyaprabha1805/GOAT-HACKATHON-22PW13/blob/main/screenshot/Screenshot%202025-03-30%20224213.png)
 ![5](https://github.com/divyaprabha1805/GOAT-HACKATHON-22PW13/blob/main/screenshot/Screenshot%202025-03-30%20224306.png)
+Fleet_logs.txt:
 ![6](https://github.com/divyaprabha1805/GOAT-HACKATHON-22PW13/blob/main/screenshot/Screenshot%202025-03-30%20224355.png)
