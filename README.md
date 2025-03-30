@@ -1,4 +1,7 @@
-How to run:Inside src,"python main.py"
+HOW TO RUN:
+pip install -r requirements.txt 
+# Run your visual GUI system 
+**python src/main.py**
 VIDEO DEMO LINK:https://www.loom.com/share/3b7464c9331a45aa9a2c1efc18ff4b70?sid=1003f88d-078c-4075-9171-69556ef1f427
 ### Robot Fleet Management System - Explanation 
 
